@@ -1,2 +1,3 @@
 # rsmb
 Latihan
+test
